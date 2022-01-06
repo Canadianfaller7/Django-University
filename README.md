@@ -1,1 +1,2 @@
-# Django_University
+## Django University
+  This is an app that will take in the information of a class subject, who the teacher is, what is the course number, and how many hours is the course. This information is then also stored within sqlite3 so you can update the information if something was put in wrong and then you can save your changes and the updates will be pushed to the database. You can also add new courses or remove others.
